@@ -10,6 +10,12 @@ In this project,we make use of Python to explore data related to bike share syst
 ### Files used
 To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too: chicago.csv, new_york_city.csv, and washington.csv.
 
+### Software used
+To complete this project, the following software requirements apply:
+
+- You should have Python 3, NumPy, and pandas installed using Anaconda
+- A text editor, like Sublime or Atom.
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
+
 ### Credits
 All source of information came from materialin Udacity platform and documentation from links provided in it.
-
